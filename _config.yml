@@ -19,7 +19,7 @@ locale                   : "ko"
 title                    : "Here Now"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "연우주"
+name                     : "Yeonu Ju"
 description              : "sicut erat in principio"
 url                      : # the base hostname & protocol for your site e.g. "https://wxuldu.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,10 +101,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "연우주"
+  name             : "Yeonu Ju"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "용인한국외국어대학교 부설고등학교 재학"
-  location         : "South Korea, Yeosu"
+  bio              : "𝑠𝑖𝑐𝑢𝑡 𝑒𝑟𝑎𝑡 𝑖𝑛 𝑝𝑟𝑖𝑛𝑐𝑖𝑝𝑖𝑜"
+  location         : "South Korea, Seoul"
   email            : jeonuuuu@gmail.com
   links:
     - label: "Email"

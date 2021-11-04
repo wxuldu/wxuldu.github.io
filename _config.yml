@@ -25,7 +25,7 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "wxuldu/wxuldu.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/KakaoTalk_20211104_142326796.jpg"
+logo                     : "/assets/images/제목 없음.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Yeonu Ju"
-  avatar           : "/assets/images/제목 없음.png"
+  avatar           : "/assets/images/KakaoTalk_20211104_142326796.jpg"
   bio              : "𝑠𝑖𝑐𝑢𝑡 𝑒𝑟𝑎𝑡 𝑖𝑛 𝑝𝑟𝑖𝑛𝑐𝑖𝑝𝑖𝑜"
   location         : "South Korea, Seoul"
   email            : jeonuuuu@gmail.com
